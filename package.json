@@ -1,0 +1,31 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "some random",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehinducode/firstproject.git"
+  },
+  "keywords": [],
+  "author": "vijay k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thehinducode/firstproject/issues"
+  },
+  "homepage": "https://github.com/thehinducode/firstproject#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "parcel-bundler": "^1.12.5",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.15.0"
+  },
+  "main": "App.js"
+}
